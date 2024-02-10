@@ -1,0 +1,8 @@
+[32mINFO    [0m Test_Login:test_Login.py:42 test_login_002 is started
+[32mINFO    [0m Test_Login:test_Login.py:43 Opening Browser and Navigating to Url
+[32mINFO    [0m Test_Login:test_Login.py:50 Entering username-->Admin
+[32mINFO    [0m Test_Login:test_Login.py:54 Entering Password -->admin123
+[32mINFO    [0m Test_Login:test_Login.py:58 Click on Login Button
+[32mINFO    [0m Test_Login:test_Login.py:65 Click on Menu Button 
+[32mINFO    [0m Test_Login:test_Login.py:67 Click on Logout Button
+[32mINFO    [0m Test_Login:test_Login.py:75 test_login_002 is completed

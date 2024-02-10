@@ -393,3 +393,120 @@
  2024-02-09 11:11:12,615 : INFO : Test_Login : test_login_002 : 65 : Click on Menu Button 
  2024-02-09 11:11:12,729 : INFO : Test_Login : test_login_002 : 67 : Click on Logout Button
  2024-02-09 11:11:14,673 : INFO : Test_Login : test_login_002 : 75 : test_login_002 is completed
+ 2024-02-09 11:35:43,537 : INFO : Test_Login : test_Page_Title_001 : 20 : test_Page_Title_001 started
+ 2024-02-09 11:35:43,538 : INFO : Test_Login : test_Page_Title_001 : 21 : opening browser and naviagting to Url
+ 2024-02-09 11:35:43,575 : INFO : Test_Login : test_login_002 : 42 : test_login_002 is started
+ 2024-02-09 11:35:43,575 : INFO : Test_Login : test_login_002 : 43 : Opening Browser and Navigating to Url
+ 2024-02-09 11:35:50,839 : INFO : Test_Login : test_login_002 : 50 : Entering username-->Admin
+ 2024-02-09 11:35:52,470 : INFO : Test_Login : test_login_002 : 54 : Entering Password -->admin123
+ 2024-02-09 11:35:52,589 : INFO : Test_Login : test_login_002 : 58 : Click on Login Button
+ 2024-02-09 11:35:52,606 : INFO : Test_Login : test_Page_Title_001 : 25 : test_Page_Title_001 is Passed
+ 2024-02-09 11:35:52,613 : INFO : Test_Login : test_Page_Title_001 : 26 : Page Title is-->OrangeHRM
+ 2024-02-09 11:35:53,024 : INFO : Test_Login : test_Page_Title_001 : 33 : test_Page_Title_001 is completed
+ 2024-02-09 11:35:56,978 : INFO : Test_Login : test_login_002 : 65 : Click on Menu Button 
+ 2024-02-09 11:35:57,069 : INFO : Test_Login : test_login_002 : 67 : Click on Logout Button
+ 2024-02-09 11:35:58,363 : INFO : Test_Login : test_login_002 : 75 : test_login_002 is completed
+ 2024-02-09 11:42:10,337 : INFO : Test_Login : test_Page_Title_001 : 20 : test_Page_Title_001 started
+ 2024-02-09 11:42:10,338 : INFO : Test_Login : test_Page_Title_001 : 21 : opening browser and naviagting to Url
+ 2024-02-09 11:42:19,046 : INFO : Test_Login : test_Page_Title_001 : 25 : test_Page_Title_001 is Passed
+ 2024-02-09 11:42:19,054 : INFO : Test_Login : test_Page_Title_001 : 26 : Page Title is-->OrangeHRM
+ 2024-02-09 11:42:19,076 : INFO : Test_Login : test_Page_Title_001 : 33 : test_Page_Title_001 is completed
+ 2024-02-09 11:42:20,701 : INFO : Test_Login : test_login_002 : 42 : test_login_002 is started
+ 2024-02-09 11:42:20,701 : INFO : Test_Login : test_login_002 : 43 : Opening Browser and Navigating to Url
+ 2024-02-09 11:42:26,927 : INFO : Test_Login : test_login_002 : 50 : Entering username-->Admin
+ 2024-02-09 11:42:28,711 : INFO : Test_Login : test_login_002 : 54 : Entering Password -->admin123
+ 2024-02-09 11:42:28,830 : INFO : Test_Login : test_login_002 : 58 : Click on Login Button
+ 2024-02-09 11:42:31,193 : INFO : Test_Login : test_login_002 : 65 : Click on Menu Button 
+ 2024-02-09 11:42:31,321 : INFO : Test_Login : test_login_002 : 67 : Click on Logout Button
+ 2024-02-09 11:42:34,502 : INFO : Test_Login : test_login_002 : 75 : test_login_002 is completed
+ 2024-02-09 11:45:25,528 : INFO : Test_Login : test_Page_Title_001 : 20 : test_Page_Title_001 started
+ 2024-02-09 11:45:25,529 : INFO : Test_Login : test_Page_Title_001 : 21 : opening browser and naviagting to Url
+ 2024-02-09 11:45:28,247 : INFO : Test_Login : test_login_002 : 42 : test_login_002 is started
+ 2024-02-09 11:45:28,248 : INFO : Test_Login : test_login_002 : 43 : Opening Browser and Navigating to Url
+ 2024-02-09 11:45:36,250 : INFO : Test_Login : test_Page_Title_001 : 25 : test_Page_Title_001 is Passed
+ 2024-02-09 11:45:36,257 : INFO : Test_Login : test_Page_Title_001 : 26 : Page Title is-->OrangeHRM
+ 2024-02-09 11:45:36,806 : INFO : Test_Login : test_Page_Title_001 : 33 : test_Page_Title_001 is completed
+ 2024-02-09 11:45:37,768 : INFO : Test_Login : test_login_002 : 50 : Entering username-->Admin
+ 2024-02-09 11:45:38,584 : INFO : Test_Login : test_login_002 : 54 : Entering Password -->admin123
+ 2024-02-09 11:45:38,694 : INFO : Test_Login : test_login_002 : 58 : Click on Login Button
+ 2024-02-09 11:45:41,594 : INFO : Test_Login : test_login_002 : 65 : Click on Menu Button 
+ 2024-02-09 11:45:41,677 : INFO : Test_Login : test_login_002 : 67 : Click on Logout Button
+ 2024-02-09 11:45:43,107 : INFO : Test_Login : test_login_002 : 75 : test_login_002 is completed
+ 2024-02-10 14:49:22,645 : INFO : Test_Login : test_Page_Title_001 : 20 : test_Page_Title_001 started
+ 2024-02-10 14:49:22,647 : INFO : Test_Login : test_Page_Title_001 : 21 : opening browser and naviagting to Url
+ 2024-02-10 14:49:22,647 : INFO : Test_Login : test_login_002 : 42 : test_login_002 is started
+ 2024-02-10 14:49:22,647 : INFO : Test_Login : test_login_002 : 43 : Opening Browser and Navigating to Url
+ 2024-02-10 14:49:26,855 : INFO : Test_Login : test_login_002 : 50 : Entering username-->Admin
+ 2024-02-10 14:49:34,190 : INFO : Test_Login : test_Page_Title_001 : 25 : test_Page_Title_001 is Passed
+ 2024-02-10 14:49:34,197 : INFO : Test_Login : test_Page_Title_001 : 26 : Page Title is-->OrangeHRM
+ 2024-02-10 14:49:35,359 : INFO : Test_Login : test_Page_Title_001 : 33 : test_Page_Title_001 is completed
+ 2024-02-10 14:49:36,168 : INFO : Test_Login : test_login_002 : 54 : Entering Password -->admin123
+ 2024-02-10 14:49:36,295 : INFO : Test_Login : test_login_002 : 58 : Click on Login Button
+ 2024-02-10 14:49:41,107 : INFO : Test_Login : test_login_002 : 65 : Click on Menu Button 
+ 2024-02-10 14:49:41,373 : INFO : Test_Login : test_login_002 : 67 : Click on Logout Button
+ 2024-02-10 14:49:43,006 : INFO : Test_Login : test_login_002 : 75 : test_login_002 is completed
+ 2024-02-10 14:52:24,532 : INFO : Test_Login : test_Page_Title_001 : 20 : test_Page_Title_001 started
+ 2024-02-10 14:52:24,532 : INFO : Test_Login : test_Page_Title_001 : 21 : opening browser and naviagting to Url
+ 2024-02-10 14:52:27,765 : INFO : Test_Login : test_login_002 : 42 : test_login_002 is started
+ 2024-02-10 14:52:27,765 : INFO : Test_Login : test_login_002 : 43 : Opening Browser and Navigating to Url
+ 2024-02-10 14:52:34,998 : INFO : Test_Login : test_Page_Title_001 : 25 : test_Page_Title_001 is Passed
+ 2024-02-10 14:52:35,000 : INFO : Test_Login : test_Page_Title_001 : 26 : Page Title is-->OrangeHRM
+ 2024-02-10 14:52:35,329 : INFO : Test_Login : test_Page_Title_001 : 33 : test_Page_Title_001 is completed
+ 2024-02-10 14:52:37,580 : INFO : Test_Login : test_login_002 : 50 : Entering username-->Admin
+ 2024-02-10 14:52:39,014 : INFO : Test_Login : test_login_002 : 54 : Entering Password -->admin123
+ 2024-02-10 14:52:39,142 : INFO : Test_Login : test_login_002 : 58 : Click on Login Button
+ 2024-02-10 14:52:42,153 : INFO : Test_Login : test_login_002 : 65 : Click on Menu Button 
+ 2024-02-10 14:52:42,213 : INFO : Test_Login : test_login_002 : 67 : Click on Logout Button
+ 2024-02-10 14:52:43,359 : INFO : Test_Login : test_login_002 : 75 : test_login_002 is completed
+ 2024-02-10 14:54:33,082 : INFO : Test_Login : test_Page_Title_001 : 20 : test_Page_Title_001 started
+ 2024-02-10 14:54:33,082 : INFO : Test_Login : test_Page_Title_001 : 21 : opening browser and naviagting to Url
+ 2024-02-10 14:54:41,613 : INFO : Test_Login : test_Page_Title_001 : 25 : test_Page_Title_001 is Passed
+ 2024-02-10 14:54:41,620 : INFO : Test_Login : test_Page_Title_001 : 26 : Page Title is-->OrangeHRM
+ 2024-02-10 14:54:41,664 : INFO : Test_Login : test_Page_Title_001 : 33 : test_Page_Title_001 is completed
+ 2024-02-10 14:54:43,330 : INFO : Test_Login : test_login_002 : 42 : test_login_002 is started
+ 2024-02-10 14:54:43,330 : INFO : Test_Login : test_login_002 : 43 : Opening Browser and Navigating to Url
+ 2024-02-10 14:54:45,262 : INFO : Test_Login : test_login_002 : 50 : Entering username-->Admin
+ 2024-02-10 14:54:51,043 : INFO : Test_Login : test_login_002 : 54 : Entering Password -->admin123
+ 2024-02-10 14:54:51,168 : INFO : Test_Login : test_login_002 : 58 : Click on Login Button
+ 2024-02-10 14:54:53,851 : INFO : Test_Login : test_login_002 : 65 : Click on Menu Button 
+ 2024-02-10 14:54:53,908 : INFO : Test_Login : test_login_002 : 67 : Click on Logout Button
+ 2024-02-10 14:54:56,867 : INFO : Test_Login : test_login_002 : 75 : test_login_002 is completed
+ 2024-02-10 14:55:31,925 : INFO : Test_Login : test_Page_Title_001 : 20 : test_Page_Title_001 started
+ 2024-02-10 14:55:31,925 : INFO : Test_Login : test_Page_Title_001 : 21 : opening browser and naviagting to Url
+ 2024-02-10 14:55:36,134 : INFO : Test_Login : test_login_002 : 42 : test_login_002 is started
+ 2024-02-10 14:55:36,136 : INFO : Test_Login : test_login_002 : 43 : Opening Browser and Navigating to Url
+ 2024-02-10 14:55:42,698 : INFO : Test_Login : test_Page_Title_001 : 25 : test_Page_Title_001 is Passed
+ 2024-02-10 14:55:42,706 : INFO : Test_Login : test_Page_Title_001 : 26 : Page Title is-->OrangeHRM
+ 2024-02-10 14:55:43,622 : INFO : Test_Login : test_Page_Title_001 : 33 : test_Page_Title_001 is completed
+ 2024-02-10 14:55:47,398 : INFO : Test_Login : test_login_002 : 50 : Entering username-->Admin
+ 2024-02-10 14:55:48,415 : INFO : Test_Login : test_login_002 : 54 : Entering Password -->admin123
+ 2024-02-10 14:55:48,539 : INFO : Test_Login : test_login_002 : 58 : Click on Login Button
+ 2024-02-10 14:55:53,076 : INFO : Test_Login : test_login_002 : 65 : Click on Menu Button 
+ 2024-02-10 14:55:53,345 : INFO : Test_Login : test_login_002 : 67 : Click on Logout Button
+ 2024-02-10 14:55:54,983 : INFO : Test_Login : test_login_002 : 75 : test_login_002 is completed
+ 2024-02-10 14:57:23,222 : INFO : Test_Login : test_Page_Title_001 : 20 : test_Page_Title_001 started
+ 2024-02-10 14:57:23,222 : INFO : Test_Login : test_Page_Title_001 : 21 : opening browser and naviagting to Url
+ 2024-02-10 14:57:26,029 : INFO : Test_Login : test_login_002 : 42 : test_login_002 is started
+ 2024-02-10 14:57:26,030 : INFO : Test_Login : test_login_002 : 43 : Opening Browser and Navigating to Url
+ 2024-02-10 14:57:32,901 : INFO : Test_Login : test_Page_Title_001 : 25 : test_Page_Title_001 is Passed
+ 2024-02-10 14:57:32,904 : INFO : Test_Login : test_Page_Title_001 : 26 : Page Title is-->OrangeHRM
+ 2024-02-10 14:57:33,212 : INFO : Test_Login : test_Page_Title_001 : 33 : test_Page_Title_001 is completed
+ 2024-02-10 14:57:36,370 : INFO : Test_Login : test_login_002 : 50 : Entering username-->Admin
+ 2024-02-10 14:57:37,351 : INFO : Test_Login : test_login_002 : 54 : Entering Password -->admin123
+ 2024-02-10 14:57:37,446 : INFO : Test_Login : test_login_002 : 58 : Click on Login Button
+ 2024-02-10 14:57:41,815 : INFO : Test_Login : test_login_002 : 65 : Click on Menu Button 
+ 2024-02-10 14:57:41,867 : INFO : Test_Login : test_login_002 : 67 : Click on Logout Button
+ 2024-02-10 14:57:43,646 : INFO : Test_Login : test_login_002 : 75 : test_login_002 is completed
+ 2024-02-10 14:59:26,524 : INFO : Test_Login : test_Page_Title_001 : 20 : test_Page_Title_001 started
+ 2024-02-10 14:59:26,525 : INFO : Test_Login : test_Page_Title_001 : 21 : opening browser and naviagting to Url
+ 2024-02-10 14:59:29,122 : INFO : Test_Login : test_login_002 : 42 : test_login_002 is started
+ 2024-02-10 14:59:29,122 : INFO : Test_Login : test_login_002 : 43 : Opening Browser and Navigating to Url
+ 2024-02-10 14:59:41,088 : INFO : Test_Login : test_login_002 : 50 : Entering username-->Admin
+ 2024-02-10 14:59:41,116 : INFO : Test_Login : test_Page_Title_001 : 25 : test_Page_Title_001 is Passed
+ 2024-02-10 14:59:41,123 : INFO : Test_Login : test_Page_Title_001 : 26 : Page Title is-->OrangeHRM
+ 2024-02-10 14:59:41,718 : INFO : Test_Login : test_Page_Title_001 : 33 : test_Page_Title_001 is completed
+ 2024-02-10 14:59:42,261 : INFO : Test_Login : test_login_002 : 54 : Entering Password -->admin123
+ 2024-02-10 14:59:42,390 : INFO : Test_Login : test_login_002 : 58 : Click on Login Button
+ 2024-02-10 14:59:45,783 : INFO : Test_Login : test_login_002 : 65 : Click on Menu Button 
+ 2024-02-10 14:59:45,871 : INFO : Test_Login : test_login_002 : 67 : Click on Logout Button
+ 2024-02-10 14:59:47,865 : INFO : Test_Login : test_login_002 : 75 : test_login_002 is completed

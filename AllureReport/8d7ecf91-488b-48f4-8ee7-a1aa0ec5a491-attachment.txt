@@ -1,0 +1,5 @@
+[32mINFO    [0m Test_Login:test_Login.py:20 test_Page_Title_001 started
+[32mINFO    [0m Test_Login:test_Login.py:21 opening browser and naviagting to Url
+[32mINFO    [0m Test_Login:test_Login.py:25 test_Page_Title_001 is Passed
+[32mINFO    [0m Test_Login:test_Login.py:26 Page Title is-->OrangeHRM
+[32mINFO    [0m Test_Login:test_Login.py:33 test_Page_Title_001 is completed
